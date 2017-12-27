@@ -1,0 +1,22 @@
+{
+  "name": "learnts",
+  "version": "1.0.0",
+  "description": "learn typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brucecodezone/learnTs.git"
+  },
+  "keywords": [
+    "TypeScript"
+  ],
+  "author": "BruceZhang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brucecodezone/learnTs/issues"
+  },
+  "homepage": "https://github.com/brucecodezone/learnTs#readme"
+}
